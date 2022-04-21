@@ -208,6 +208,10 @@ template {
 }
 
 /* //////////// */
+body {
+  background: #bada55;
+  color: black;
+}
 
 p {
   color: aquamarine;
